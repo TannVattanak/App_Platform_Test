@@ -1,3 +1,4 @@
+<h1>Ratana SOTH</h1>
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
